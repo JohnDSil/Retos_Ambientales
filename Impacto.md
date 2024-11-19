@@ -17,4 +17,4 @@ Reducir los vertidos a los ríos y mares, de tanto empresas como de individuos, 
 Al estar trabajando con la tierra, eso produce que esta misma deje de ser útil para la agricultura y la ganadería.
 
 # Deforestación
-si
+
