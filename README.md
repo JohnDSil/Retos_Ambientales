@@ -2,7 +2,7 @@
 # U2:Retos ambientales y sociales a los que se enfrenta la sociedad  
 
 
-Índice 
+## Índice 
 
 1.1. Introducción
 
