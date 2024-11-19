@@ -1,12 +1,11 @@
 # Alianza:
 
-  Definición: Acuerdo o colaboración entre dos o más partes, organizaciones, gobiernos o comunidades para trabajar juntas hacia un objetivo común. 
-  Las alianzas pueden ser entre países, empresas y organizaciones no gubernamentales para abordar desafíos  globales como el cambio climático o la pobreza.
+Definición: Acuerdo o colaboración entre dos o más partes, organizaciones, gobiernos o comunidades para trabajar juntas hacia un objetivo común.  Las alianzas pueden ser entre países, empresas y organizaciones no gubernamentales para abordar desafíos  globales como el cambio climático o la pobreza.
 
 # Auditoría:
 
-    Definición: Evaluación sistemática de las prácticas ambientales de una empresa, organización o actividad para verificar su cumplimiento con las normativas ambientales, 
-    identificar impactos negativos y mejorar las prácticas de sostenibilidad.
+ Definición: Evaluación sistemática de las prácticas ambientales de una empresa, organización o actividad para verificar su cumplimiento con las normativas ambientales, 
+ identificar impactos negativos y mejorar las prácticas de sostenibilidad.
 
 
 # Biodegradable:
