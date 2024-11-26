@@ -24,6 +24,8 @@ Al estar trabajando con la tierra, eso produce que esta misma deje de ser útil 
 
   Debido a la extinción del 8% de las especies animales conocidas, se ha perdido mucha biodiversidad. La destrucción de sus habitats y ecosistemas, por culpa de la construcción de mas edificios. Hay que mantener lo máximo posible de naturaleza intacta, para poder ayudar a que los ecosistemas.
 
+![planeta](img/planeta.png)
+
 # Sequía
  
   Con la subida de temperaturas, los diferentes climas son mas extremos, y provocan daños mucho mayores si tuvieramos temperaturas normales.
