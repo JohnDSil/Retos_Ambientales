@@ -1,9 +1,10 @@
+## Retos Ambientales
 
 Las sequías cada vez más intensas, los incendios forestales más frecuentes y destructivos, la desertificación, la pérdida de biodiversidad, la contaminación por agricultura y ganadería industrial, el turismo masivo, los plásticos y los combustibles fósiles son algunos de los principales problemas.
 
 Las consecuencias de esta situación son graves: escasez de agua, pérdida de tierras fértiles, disminución de la calidad del aire y del agua, pérdida de biodiversidad, aumento de riesgos para la salud humana y efectos negativos en la economía.
 
-Greenpeace propone una serie de soluciones para revertir esta situación:
+Se proponen una serie de soluciones para revertir esta situación:
 
 Transición hacia una agricultura más sostenible: Reducir el uso de pesticidas y fertilizantes, fomentar la agricultura ecológica y de proximidad, y adaptar las prácticas agrícolas al cambio climático.
 
