@@ -27,7 +27,7 @@ Se proponen una serie de soluciones para revertir esta situación:
 **Combate a la impunidad ambiental**: Aplicar las leyes ambientales y garantizar que las empresas sean responsables de los daños ambientales que causan.
 
 
-Los principales retos sociales en cuanto a la sostenibilidad incluyen:
+## Los principales retos sociales en cuanto a la sostenibilidad incluyen:
 
 **Desigualdad y pobreza**: Muchas personas no tienen acceso a recursos básicos como agua, educación o energía limpia, lo que hace difícil adoptar prácticas sostenibles.
   
@@ -43,9 +43,8 @@ Los principales retos sociales en cuanto a la sostenibilidad incluyen:
 
 **Tecnología y residuos**: El aumento de la tecnología genera toneladas de basura electrónica y crea una brecha digital, donde las personas sin acceso a la tecnología quedan excluidas de las soluciones sostenibles.
 
-Ante estos retos sociales, se plantean varias soluciones, como por ejemplo:
+## Ante estos retos sociales, se plantean varias soluciones, como por ejemplo:
 
-Aquí tienes algunas soluciones sencillas para los problemas de sostenibilidad:
 
 1. **Reducir la pobreza y la desigualdad**:
    - Asegurar que todas las personas tengan acceso a recursos básicos como agua, energía limpia y educación.
