@@ -19,5 +19,7 @@ Glosario (Alianza, Auditoría, Biodegradable, Efecto invernadero, Insalubre, Mig
 
 Referencias
 
+![Problemas medioambientales](https://www.ecolatras.es/blog/cambio-climatico/problemas-medioambientales-del-planeta)
+
 Autores
 
