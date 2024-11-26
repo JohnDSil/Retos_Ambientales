@@ -38,6 +38,8 @@ Al estar trabajando con la tierra, eso produce que esta misma deje de ser útil 
 
   No es una sorpresa que tengamos que compreternos mas con la reduccióin de residuos, tenemos que aplicar las 3Rs
 
+![si](img/si.jpg)
+
 # Superpoblación
 
   Según la ONU, para el 2050 seremos 9700 millones de personas, provocando así un aumento de consumo de recursos, pérdida de biodiversidad por culpa de la edificación masvia en todo el mundo, etc.
