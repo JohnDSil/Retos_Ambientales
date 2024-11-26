@@ -1,4 +1,4 @@
-# Retos Ambientales
+## Retos Ambientales
 
 Las sequías cada vez más intensas, los incendios forestales más frecuentes y destructivos, la desertificación, la pérdida de biodiversidad, la contaminación por agricultura y ganadería industrial, el turismo masivo, los plásticos y los combustibles fósiles son algunos de los principales problemas.
 
