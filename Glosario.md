@@ -1,3 +1,6 @@
+## GLOSARIO
+
+
 # Alianza:
 
 Definición: Acuerdo o colaboración entre dos o más partes, organizaciones, gobiernos o comunidades para trabajar juntas hacia un objetivo común.  Las alianzas pueden ser entre países, empresas y organizaciones no gubernamentales para abordar desafíos  globales como el cambio climático o la pobreza.
