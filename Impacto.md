@@ -26,3 +26,25 @@ Al estar trabajando con la tierra, eso produce que esta misma deje de ser útil 
 
 # Sequía
  
+  Con la subida de temperaturas, los diferentes climas son mas extremos, y provocan daños mucho mayores si tuvieramos temperaturas normales.
+
+# Consumo abusivo
+
+  Por culpa de la obsolescencia programada, los aparatos electrónicos solamente duran una cantidad corta de años. Con esto aumentamos el consumo de recursos a una velocidad mayor.
+
+# Residuos
+
+  No es una sorpresa que tengamos que compreternos mas con la reduccióin de residuos, tenemos que aplicar las 3Rs
+
+# Superpoblación
+
+  Según la ONU, para el 2050 seremos 9700 millones de personas, provocando así un aumento de consumo de recursos, pérdida de biodiversidad por culpa de la edificación masvia en todo el mundo, etc.
+  Llegará un momento, en el cual no tengamos ni agua potable.
+
+# Invasión y tráfico ilegal de especies
+
+  Con el tráfico ilegal, la gente mezcla diferentes animales, sin tener en cuenta que eso puede afectar a el ecosistema, pudiendo incluso terminar en plagas, porque la nueva especie introducida, no tiene depredadores naturales. También provoca que las especies se muevan de territorios y continuamos con la cadena.
+
+# Desconexión social
+
+  Vivimos en sociedad, por lo tanto tenemos que aportar nuestro granito de arena para ayudar con esto, aunque creamos que no estamos haciendo nada, si todos cumplimos con lo mínimo que se pide, solucionaremos muchos problemas.
