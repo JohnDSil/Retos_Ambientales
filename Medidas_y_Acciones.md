@@ -1,1 +1,22 @@
+USO EFICIENTE DE LA ENERGÍA
+
+
+GESTIÓN DEL AGUA
+
+
+CALCULO HUELLA AMBIENTAL
+
+
+PROTECCIÓN DEL MEDIO AMBIENTE
+
+
+OPTIMIZACIÓN DE PRODUCTOS
+
+
+MOVILIDAD SOSTENIBLE
+
+
+DESARROLLO URBANO 
+
+![Ainia](https://www.ainia.com/ainia-news/10-acciones-empresas-reducir-impacto-ambiental)
 

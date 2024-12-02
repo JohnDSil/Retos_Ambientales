@@ -19,5 +19,11 @@ Glosario (Alianza, Auditoría, Biodegradable, Efecto invernadero, Insalubre, Mig
 
 Referencias
 
+[Problemas medioambientales](https://www.ecolatras.es/blog/cambio-climatico/problemas-medioambientales-del-planeta)
+
+[ChatGPT](https://openai.com/)
+
+[Introducción](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dialnet.unirioja.es/descarga/articulo/9095451.pdf)
+
 Autores
 
