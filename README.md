@@ -3,7 +3,7 @@
 
 ## Índice 
 
-1.1. Introducción
+1.1. [Introducción](impacto.md)
 
 1.2. Principales retos ambientales y sociales
 
