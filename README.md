@@ -25,5 +25,7 @@ Referencias
 
 [Introducción](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dialnet.unirioja.es/descarga/articulo/9095451.pdf)
 
+[Ainia](https://www.ainia.com/ainia-news/10-acciones-empresas-reducir-impacto-ambiental)
+
 Autores
 
