@@ -12,4 +12,4 @@ Si bien a escala nacional ha habido algunos avances en el desarrollo de polític
 Para enfrentar estos retos, es crucial implementar medidas que incluyan políticas ambientales más estrictas, fomentar la transición hacia energías renovables, promover la economía circular y adoptar tecnologías sostenibles. Así como la educación ambiental y la concienciación global son esenciales para promover una revolucion en el comportamiento en todos los niveles de la sociedad. Las acciones concretas, tanto a nivel individual como colectivo, son necesarias para mitigar los impactos negativos y garantizar la sostenibilidad del planeta para las futuras generaciones.
 
 
-![Fin](si.jpg)
+![Fin](img/si.jpg)
