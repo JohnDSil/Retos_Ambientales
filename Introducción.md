@@ -1,5 +1,7 @@
 ## **Introducción**
 
+![retos](img/retos.jpg)
+
 Los problemas ambientales y sociales actuales están estrechamente relacionados con el modelo de desarrollo y la explotación de los recursos naturales. Las prácticas actuales de extracción de estos recursos están generando tensiones y daños cada vez mayores, y el cambio climático está acelerando estos efectos. A medida que los recursos se agotan y el clima cambia, los impactos negativos se agravan, afectando tanto al medio ambiente como a las comunidades humanas.
 
 Uno de los principales desafíos ambientales es la gestión del agua, ya que muchas regiones enfrentan una creciente escasez de este recurso esencial, lo que tiene consecuencias tanto para las personas como para los ecosistemas. Otro desafío importante es la biodiversidad, ya que la destrucción de hábitats naturales y la sobreexplotación de especies están acelerando la pérdida de biodiversidad, lo que amenaza el equilibrio ecológico global. La gestión de los bosques y el uso del suelo también presenta problemas, ya que la deforestación y el uso inadecuado del suelo están causando la erosión del medio ambiente y la pérdida de recursos. Además, las zonas costeras y marinas enfrentan grandes retos debido a la contaminación, el aumento del nivel del mar y la sobreexplotación de recursos marinos, lo que pone en peligro los ecosistemas marinos y las comunidades costeras.
