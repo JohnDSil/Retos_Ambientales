@@ -8,6 +8,8 @@
 
 **Optimización de envases**: Desarrolla un plan para reducir el uso de envases y utilizar materiales biodegradables o reciclables. Se investigan soluciones como bioplásticos y ecodiseño de envases.
 
+![balon](img/balon.jpg)
+
 **Cálculo de la huella ambiental**: Realiza un Análisis del Ciclo de Vida (ACV) para identificar el impacto ambiental de tus productos y procesos, y establecer objetivos de mejora.
 
 **Gestión de residuos peligrosos**: Mejora la gestión de residuos urbanos y peligrosos. AINIA participa en proyectos como URBIOFIN para transformar residuos orgánicos urbanos en bioproductos.
