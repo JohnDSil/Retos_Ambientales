@@ -11,7 +11,7 @@
 
 1.4. [Medidas y acciones para minimizar los impactos ambientales](Medidas_y_acciones.md)
  
-## Conclusiones
+[Conclusiones](Conclusiones.md)
 
 [Mapa conceptual (Herramientas utilizada)](Mapa_Conceptual.md)
 
