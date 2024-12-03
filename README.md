@@ -11,13 +11,13 @@
 
 1.4. [Medidas y acciones para minimizar los impactos ambientales](Medidas_y_acciones.md)
  
-Conclusiones
+## Conclusiones
 
-Mapa conceptual (Herramientas utilizada)
+[Mapa conceptual (Herramientas utilizada)](Mapa_Conceptual.md)
 
-Glosario (Alianza, Auditoría, Biodegradable, Efecto invernadero, Insalubre, Migración, Pandemía, Retp, Saneamiento)
+[Glosario (Alianza, Auditoría, Biodegradable, Efecto invernadero, Insalubre, Migración, Pandemía, Retp, Saneamiento)](Glosario.md)
 
-Referencias
+## Referencias
 
 [Problemas medioambientales](https://www.ecolatras.es/blog/cambio-climatico/problemas-medioambientales-del-planeta)
 
@@ -27,5 +27,11 @@ Referencias
 
 [Ainia](https://www.ainia.com/ainia-news/10-acciones-empresas-reducir-impacto-ambiental)
 
-Autores
+## Autores:
+
+![D.S.R](https://github.com/JohnDSil/Retos_Ambientales)
+
+![I.B.L](https://github.com/IvanBL8/Retos_Ambientales)
+
+![G.C.R](https://github.com/Guille98-ASIR/Retos_Ambientales)
 
