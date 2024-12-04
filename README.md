@@ -9,7 +9,7 @@
 
 1.3. [Impacto de los actuales problemas medioambientales](Impacto.md)
 
-1.4. [Medidas y acciones para minimizar los impactos ambientales](Medidas_y_acciones.md)
+1.4. [Medidas y acciones para minimizar los impactos ambientales](Medidas_y_Acciones.md)
  
 [Conclusiones](Conclusiones.md)
 
